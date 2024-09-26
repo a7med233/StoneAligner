@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<VBox xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="swapstones.controller.TableViewController">
+    <children>
+        <StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="800.0"
+           stylesheets="@../table.css">
+            <children>
+                <TableView fx:id="tableView" prefHeight="354.0" prefWidth="800.0">
+                    <columns>
+                        <TableColumn fx:id="playerName" prefWidth="75.0" text="Name" />
+                        <TableColumn fx:id="numberOfMoves" prefWidth="75.0" text="Number of Moves" />
+                        <TableColumn fx:id="duration" prefWidth="75.0" text="Duration" />
+                        <TableColumn fx:id="created" prefWidth="75.0" text="Date" />
+                    </columns>
+                    <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                    </columnResizePolicy>
+                </TableView>
+            </children>
+        </StackPane>
+            <HBox>
+                <Button fx:id="playagain" mnemonicParsing="false" onAction="#handlePlayAgain" text="Play Again" />
+            </HBox>
+    </children>
+</VBox>

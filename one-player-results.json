@@ -1,0 +1,79 @@
+[ {
+  "duration" : 18.000000000,
+  "created" : "2024-06-08T19:52:45.9480718Z",
+  "playerName" : "Ahmed",
+  "solved" : true,
+  "numberOfMoves" : 6
+}, {
+  "duration" : 18.000000000,
+  "created" : "2024-06-08T19:54:22.8440286Z",
+  "playerName" : "Ahmed",
+  "solved" : true,
+  "numberOfMoves" : 6
+}, {
+  "duration" : 30.000000000,
+  "created" : "2024-06-08T19:55:13.4011965Z",
+  "playerName" : "Ahmed",
+  "solved" : true,
+  "numberOfMoves" : 10
+}, {
+  "duration" : 12.000000000,
+  "created" : "2024-06-08T20:17:58.5708319Z",
+  "playerName" : "Ahmed Emad",
+  "solved" : true,
+  "numberOfMoves" : 6
+}, {
+  "duration" : 12.000000000,
+  "created" : "2024-06-08T20:22:11.1229761Z",
+  "playerName" : "Ahmed Emad",
+  "solved" : true,
+  "numberOfMoves" : 6
+}, {
+  "duration" : 35.000000000,
+  "created" : "2024-06-08T20:23:32.3020772Z",
+  "playerName" : "abolsis",
+  "solved" : true,
+  "numberOfMoves" : 9
+}, {
+  "duration" : 10.000000000,
+  "created" : "2024-06-08T20:24:21.4700954Z",
+  "playerName" : "Ahmed Emad",
+  "solved" : true,
+  "numberOfMoves" : 6
+}, {
+  "duration" : 244.000000000,
+  "created" : "2024-06-08T20:26:24.7280746Z",
+  "playerName" : "abdullah",
+  "solved" : true,
+  "numberOfMoves" : 40
+}, {
+  "duration" : 11.000000000,
+  "created" : "2024-06-08T20:32:06.4512339Z",
+  "playerName" : "omar",
+  "solved" : true,
+  "numberOfMoves" : 6
+}, {
+  "duration" : 9.000000000,
+  "created" : "2024-06-08T20:36:22.3748948Z",
+  "playerName" : "Omar Khaled",
+  "solved" : true,
+  "numberOfMoves" : 6
+}, {
+  "duration" : 9.000000000,
+  "created" : "2024-06-08T20:41:57.8369139Z",
+  "playerName" : "Ahmed Emad",
+  "solved" : false,
+  "numberOfMoves" : 1
+}, {
+  "duration" : 3.000000000,
+  "created" : "2024-06-08T20:43:09.3074499Z",
+  "playerName" : "Ahmed Emad",
+  "solved" : false,
+  "numberOfMoves" : 0
+}, {
+  "duration" : 23.000000000,
+  "created" : "2024-06-08T22:53:05.5393296+02:00",
+  "playerName" : "Ahmed Emad",
+  "solved" : true,
+  "numberOfMoves" : 10
+} ]
